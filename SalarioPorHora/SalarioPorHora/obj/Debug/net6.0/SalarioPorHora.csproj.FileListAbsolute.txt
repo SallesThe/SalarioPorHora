@@ -1,0 +1,15 @@
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\bin\Debug\net6.0\SalarioPorHora.exe
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\bin\Debug\net6.0\SalarioPorHora.deps.json
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\bin\Debug\net6.0\SalarioPorHora.runtimeconfig.json
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\bin\Debug\net6.0\SalarioPorHora.dll
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\bin\Debug\net6.0\SalarioPorHora.pdb
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\SalarioPorHora.csproj.AssemblyReference.cache
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\SalarioPorHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\SalarioPorHora.AssemblyInfoInputs.cache
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\SalarioPorHora.AssemblyInfo.cs
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\SalarioPorHora.csproj.CoreCompileInputs.cache
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\SalarioPorHora.dll
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\refint\SalarioPorHora.dll
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\SalarioPorHora.pdb
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\SalarioPorHora.genruntimeconfig.cache
+C:\Users\manod\OneDrive\Área de Trabalho\HorasTrabalhadas\SalarioPorHora\SalarioPorHora\obj\Debug\net6.0\ref\SalarioPorHora.dll
